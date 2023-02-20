@@ -1,0 +1,16 @@
+@charset "EUC-KR";
+body { font-family : "Lato", sans-serif;
+       font-weight : 400;
+       font-size : 23px;
+       line-height : 1.7;
+       color:#777;
+       
+       height : 80vh;
+         background-image : url(img/gold.jpg);
+         background-repeat : no-repeat;
+         background-position : top;
+         background-size : cover;
+         text-shadow: -.030em .030em #FFF6E6, -.08em .08em #E7DCD7;
+       }
+       
+a {text-decoration : none;}

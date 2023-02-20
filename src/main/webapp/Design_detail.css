@@ -1,0 +1,67 @@
+@charset "EUC-KR";
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+body { 
+}
+
+header { font-family : "Lato", sans-serif;
+       font-weight : 400;
+       font-size : 16px;
+       line-height : 1.7;
+       color:#777;
+       background-color : #FFFFF0;
+}
+
+menu {   background-image : url(img/back3.jpg);
+         background-repeat : no-repeat;
+         background-position : center;
+         background-size : cover;
+         font-family : "Lato", sans-serif;
+         font-weight : 400;
+         font-size : 25px;
+         line-height : 1.7;
+         text-shadow: -.030em .030em #FFF6E6, -.08em .08em #E7DCD7;
+}
+
+section {height : 80vh;
+         background-image : url(img/result3.jpg);
+         background-repeat : no-repeat;
+         background-position : top;
+         background-size : cover;
+         
+         font-family : "Lato", sans-serif;
+         font-weight : 400;
+         font-size : 16px;
+         line-height : 1.7;
+         color : #663399;
+}
+	     
+
+
+footer {background-color : #C6DEFF;
+        font-family : "Lato", sans-serif;
+       font-weight : 400;
+       font-size : 16px;
+       line-height : 1.7;
+       color:#777;
+}
+
+
+a {text-decoration : none;}
+
+a:link {color : #A74AC7;}
+
+a:visited {color : #893BFF;}
+
+a:hover { color : #FFC0CB;  background-color : #686A6C;}
+
+
+table {
+	   width : 50%;
+	   border-top : 1px solid #444444;
+	   border-collapse : separate;
+	   border-spacing : 0 20px;
+}
